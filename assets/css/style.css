@@ -906,7 +906,7 @@ cursor:pointer;
     animation: shine1 3s infinite linear forwards;
 }
 .shine2{
-    background: linear-gradient(to right,#70a5db 0, #000 10%, #70a5db 30%);
+    background: linear-gradient(to right,#70a5db 0, #7998b6 10%, #70a5db 30%);
     background-position: 0;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
