@@ -1,7 +1,10 @@
 /*!==================== GOOGLE FONTS ====================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-
+@import url('https://db.onlinewebfonts.com/c/cc63ce6e304da54106961b31a1d744a9?family=Apercu');
+@import url('https://db.onlinewebfonts.com/c/d4f20dfedfdf197ed0ac52b09bf25551?family=GT+Walsheim+Pro+Medium+Regular');
+@import url('https://db.onlinewebfonts.com/c/0abeb2471faeb5269db428b9eac2075e?family=GT+Walsheim+Pro+Regular+Regular');
 /*!==================== VARIABLES CSS ====================*/
+
 :root {
     --header-height: 5rem;
 
