@@ -5,6 +5,7 @@
 @import url('https://db.onlinewebfonts.com/c/0abeb2471faeb5269db428b9eac2075e?family=GT+Walsheim+Pro+Regular+Regular');
 /*!==================== VARIABLES CSS ====================*/
 :root {
+    
     --header-height: 5rem;
     --first-color: #70a5fd;
     --first-color-alt: hsl(166, 100%, 40%);
